@@ -5,6 +5,9 @@ using namespace std;
 int main(){
 	double jk,lb,jl,jtot;
 	long gtot,gaber;
+	
+	cout<<"PROGRAM HITUNG GAJI"<<endl;
+	cout<<"++++++++++++++++++++++++++++++++"<<endl;
 	cout<<"Lama Jam Kerja Perminggu = ";cin>>jk;
 	cout<<"================================"<<endl;
 	if (jk>40){
