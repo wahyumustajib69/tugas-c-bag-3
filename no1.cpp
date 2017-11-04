@@ -12,6 +12,6 @@ int main(){
 	else{
 		Z=X-Y;
 	}
-	cout<<"Hasil Pengurangan \t= "<<Z;
+	cout<<"Hasil Pengurangan \t = "<<Z;
 	
 }
