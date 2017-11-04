@@ -6,8 +6,11 @@ int main(){
 	int x,y,z;
 	char r;
 	
+	cout<<"PROGRAM HITUNG LUAS"<<endl;
+	cout<<"*******************************"<<endl;
+	cout<<"P = Persegi Panjang"<<endl;
+	cout<<"S = Segittiga"<<endl;
 	cout<<"Ketikkan Huruf [P/S] = ";cin>>r;
-	cout<<endl;
 	cout<<endl;
 	
 	if(r=='P'||r=='p'){
