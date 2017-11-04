@@ -4,10 +4,9 @@ using namespace std;
 
 int main(){
 	int tb,bb,hasil1,hasil2;
-	
+	cout<<"____________________________"<<endl;
 	cout<<"MENGHITUNG BADAN IDEAL"<<endl;
-	cout<<endl;
-	cout<<"============================"<<endl;
+	cout<<"____________________________"<<endl;
 	cout<<"Input Tiggi Badan = ";cin>>tb;
 	cout<<"Input Berat Badan = ";cin>>bb;
 	

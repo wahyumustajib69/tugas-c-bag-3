@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
 	int ta,cau,na;
+	cout<<"Program Bonus buat Pak Yogy"<<endl;
 	cout<<"=================================="<<endl;
 	cout<<"MASUKKAN TINGGI SEGITIGA = ";cin>>na;
 	cout<<"=================================="<<endl;
